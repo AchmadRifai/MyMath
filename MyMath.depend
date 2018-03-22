@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1521333052 source:c:\users\ai\c pro\mymath\main.cpp
+	<iostream>
+	"Pecahan.h"
+
+1520661866 source:c:\users\ai\c pro\mymath\src\bigint.cpp
+	<string>
+	<sstream>
+	<map>
+	"bigint.h"
+
+1520661815 c:\users\ai\c pro\mymath\include\bigint.h
+	<vector>
+	<iostream>
+	<map>
+
+1521331988 c:\users\ai\c pro\mymath\include\pecahan.h
+	<string>
+
+1520954051 source:c:\users\ai\c pro\mymath\src\pecahan.cpp
+	"Pecahan.h"
+	<sstream>
+	<list>
+
