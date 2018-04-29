@@ -22,3 +22,28 @@
 	<sstream>
 	<list>
 
+1521819831 source:/home/ashura/Dokumen/garapan/MyMath/main.cpp
+	<iostream>
+	"Pecahan.h"
+
+1521819831 /home/ashura/Dokumen/garapan/MyMath/include/Pecahan.h
+	<string>
+
+1521819831 source:/home/ashura/Dokumen/garapan/MyMath/src/Bigint.cpp
+	<string>
+	<sstream>
+	<map>
+	"bigint.h"
+
+1521819831 source:/home/ashura/Dokumen/garapan/MyMath/src/Matrix.cpp
+	"Matrix.h"
+	<sstream>
+
+1521819831 /home/ashura/Dokumen/garapan/MyMath/include/Matrix.h
+	"Pecahan.h"
+
+1521819831 source:/home/ashura/Dokumen/garapan/MyMath/src/Pecahan.cpp
+	"Pecahan.h"
+	<sstream>
+	<list>
+
